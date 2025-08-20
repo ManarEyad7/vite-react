@@ -297,7 +297,7 @@ export default function App() {
       )}
 
       <footer className="max-w-7xl mx-auto px-6 lg:px-8 pb-8">
-        <small className="text-slate-500">Demo UI only. Replace DEMO data/paths with your outputs.</small>
+        <small className="text-slate-500"> By Manar Eyad - Shooq Alhatem - Yara Alzahrani - Fatimah Albesher .</small>
       </footer>
     </div>
   );
