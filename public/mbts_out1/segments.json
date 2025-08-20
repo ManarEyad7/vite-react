@@ -1,0 +1,293 @@
+{
+  "segments": [
+    {
+      "start_frame": 0,
+      "end_frame": 278
+    },
+    {
+      "start_frame": 278,
+      "end_frame": 790
+    },
+    {
+      "start_frame": 804,
+      "end_frame": 1877
+    },
+    {
+      "start_frame": 1890,
+      "end_frame": 2956
+    },
+    {
+      "start_frame": 2956,
+      "end_frame": 3100
+    },
+    {
+      "start_frame": 3128,
+      "end_frame": 3226
+    },
+    {
+      "start_frame": 3226,
+      "end_frame": 4116
+    },
+    {
+      "start_frame": 4144,
+      "end_frame": 4622
+    },
+    {
+      "start_frame": 4635,
+      "end_frame": 5027
+    },
+    {
+      "start_frame": 5055,
+      "end_frame": 5318
+    },
+    {
+      "start_frame": 5318,
+      "end_frame": 5350
+    },
+    {
+      "start_frame": 5379,
+      "end_frame": 5773
+    },
+    {
+      "start_frame": 5835,
+      "end_frame": 5945
+    },
+    {
+      "start_frame": 5945,
+      "end_frame": 6984
+    },
+    {
+      "start_frame": 7006,
+      "end_frame": 7313
+    },
+    {
+      "start_frame": 7313,
+      "end_frame": 7932
+    },
+    {
+      "start_frame": 7932,
+      "end_frame": 8514
+    },
+    {
+      "start_frame": 8536,
+      "end_frame": 9170
+    },
+    {
+      "start_frame": 9170,
+      "end_frame": 9340
+    },
+    {
+      "start_frame": 9357,
+      "end_frame": 9384
+    },
+    {
+      "start_frame": 9384,
+      "end_frame": 9410
+    },
+    {
+      "start_frame": 9444,
+      "end_frame": 10699
+    },
+    {
+      "start_frame": 10699,
+      "end_frame": 10742
+    },
+    {
+      "start_frame": 10755,
+      "end_frame": 10782
+    },
+    {
+      "start_frame": 10782,
+      "end_frame": 10813
+    },
+    {
+      "start_frame": 10813,
+      "end_frame": 10839
+    },
+    {
+      "start_frame": 10839,
+      "end_frame": 10869
+    },
+    {
+      "start_frame": 10939,
+      "end_frame": 10967
+    },
+    {
+      "start_frame": 11000,
+      "end_frame": 11031
+    },
+    {
+      "start_frame": 11078,
+      "end_frame": 11102
+    },
+    {
+      "start_frame": 11116,
+      "end_frame": 11140
+    },
+    {
+      "start_frame": 11209,
+      "end_frame": 11295
+    },
+    {
+      "start_frame": 11295,
+      "end_frame": 11505
+    },
+    {
+      "start_frame": 11505,
+      "end_frame": 12039
+    },
+    {
+      "start_frame": 12079,
+      "end_frame": 12102
+    },
+    {
+      "start_frame": 12102,
+      "end_frame": 12320
+    },
+    {
+      "start_frame": 12320,
+      "end_frame": 12360
+    },
+    {
+      "start_frame": 12360,
+      "end_frame": 13108
+    },
+    {
+      "start_frame": 13108,
+      "end_frame": 13652
+    },
+    {
+      "start_frame": 13652,
+      "end_frame": 15366
+    },
+    {
+      "start_frame": 15379,
+      "end_frame": 15651
+    },
+    {
+      "start_frame": 15664,
+      "end_frame": 16491
+    },
+    {
+      "start_frame": 16491,
+      "end_frame": 17914
+    },
+    {
+      "start_frame": 17914,
+      "end_frame": 18436
+    },
+    {
+      "start_frame": 18436,
+      "end_frame": 18621
+    },
+    {
+      "start_frame": 18691,
+      "end_frame": 19015
+    },
+    {
+      "start_frame": 19060,
+      "end_frame": 19089
+    },
+    {
+      "start_frame": 19144,
+      "end_frame": 19231
+    },
+    {
+      "start_frame": 19231,
+      "end_frame": 19411
+    },
+    {
+      "start_frame": 19411,
+      "end_frame": 19505
+    },
+    {
+      "start_frame": 19505,
+      "end_frame": 20522
+    },
+    {
+      "start_frame": 20535,
+      "end_frame": 21115
+    },
+    {
+      "start_frame": 21143,
+      "end_frame": 22692
+    },
+    {
+      "start_frame": 22692,
+      "end_frame": 22722
+    },
+    {
+      "start_frame": 22722,
+      "end_frame": 23596
+    },
+    {
+      "start_frame": 23596,
+      "end_frame": 26668
+    },
+    {
+      "start_frame": 26668,
+      "end_frame": 26841
+    },
+    {
+      "start_frame": 26854,
+      "end_frame": 27141
+    },
+    {
+      "start_frame": 27154,
+      "end_frame": 27692
+    },
+    {
+      "start_frame": 27706,
+      "end_frame": 27801
+    },
+    {
+      "start_frame": 27912,
+      "end_frame": 27947
+    },
+    {
+      "start_frame": 27975,
+      "end_frame": 28005
+    },
+    {
+      "start_frame": 28005,
+      "end_frame": 28071
+    },
+    {
+      "start_frame": 28084,
+      "end_frame": 28234
+    },
+    {
+      "start_frame": 28234,
+      "end_frame": 28577
+    },
+    {
+      "start_frame": 28650,
+      "end_frame": 29206
+    },
+    {
+      "start_frame": 29206,
+      "end_frame": 29592
+    },
+    {
+      "start_frame": 29592,
+      "end_frame": 29633
+    },
+    {
+      "start_frame": 29633,
+      "end_frame": 29986
+    },
+    {
+      "start_frame": 30000,
+      "end_frame": 30061
+    },
+    {
+      "start_frame": 30061,
+      "end_frame": 30092
+    },
+    {
+      "start_frame": 30092,
+      "end_frame": 31641
+    }
+  ],
+  "n_frames": 31642
+}
