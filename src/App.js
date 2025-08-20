@@ -4,7 +4,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 const DEMO = {
   videoId: "Fighting050_x264",
   duration: 875.51, // seconds
-  longVideoSrc: "/long_video.mp4",
+  longVideoSrc: "/parking-video - COMPRESS.mp4",
   clips: [
     { id: "c1", start: 4.1, end: 18.3, caption: "Two men confront each other near a parked car.", src: "/mbts_out1/clips/clip1.mp4", poster: "/posters/clip1.jpg" },
     { id: "c2", start: 82.6, end: 93.1, caption: "A person runs across the street.", src: "/mbts_out1/clips/clip2.mp4", poster: "/posters/clip2.jpg" },
